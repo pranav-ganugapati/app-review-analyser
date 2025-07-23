@@ -1,6 +1,0 @@
-streamlit
-google-play-scraper
-app-store-scraper
-google-generativeai
-supabase
-python-dotenv
